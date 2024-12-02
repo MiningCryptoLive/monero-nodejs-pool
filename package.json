@@ -21,7 +21,7 @@
 		"domexception": "*",
 		"mailgun.js": "*",
 		"multi-hashing": "https://github.com/SuperBlockchain-Pool/node-multi-hashing",
-		"cryptoforknote-util-progpowz": "https://github.com/Infinium-8-Developers/infinium-node-util",
+		"cryptoforknote-util": "git+https://github.com/hyle-team/zano-node-util.git",
 		"node-telegram-bot-api": "*",
 		"nodemailer": "*",
 		"nodemailer-sendmail-transport": "*",
